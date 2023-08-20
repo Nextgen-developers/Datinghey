@@ -11,7 +11,3 @@
 <p><a style="font-size:18px;" href="https://www.codester.com/items/44442/datinghey-webview-dating-platform-on-android"><strong>Buy Datinghey Android App</strong></a></p>
 
 <p><a href="https://play.google.com/store/apps/details?id=webviewgold.datingheyproject"><img style="width:300px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="en_badge_web_generic.png"></a></p>
-
-<p>
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/1.jpg">
-</p>
