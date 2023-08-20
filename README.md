@@ -14,11 +14,4 @@
 
 <p>
 <img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/1.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/2.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/3.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/4.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/5.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/6.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/7.jpg">
-<img alt="Datinghey - Your PHP social dating web application" src="https://raw.githubusercontent.com/Nextgen-developers/Datinghey/main/Intro/8.jpg">
 </p>
